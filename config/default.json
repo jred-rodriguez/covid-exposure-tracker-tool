@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://appuser:eoW7q62lhyKqd6eu@covidcluster.xa5cm.mongodb.net/CovidCluster?retryWrites=true&w=majority"
+}
